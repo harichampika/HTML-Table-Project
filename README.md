@@ -1,2 +1,5 @@
-# HTML-Table-Project
-My HTML table design project
+# My HTML Table Design
+
+This is my HTML table project.
+
+![My HTML Table](table-example.html)
